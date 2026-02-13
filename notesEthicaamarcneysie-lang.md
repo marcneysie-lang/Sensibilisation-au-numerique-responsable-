@@ -1,5 +1,5 @@
 # Annotations  
-(13/02/2026 01:38:34)
+(12/02/2026 01:38:34)
 
 « Les agents autonomes artificiels1 sont des machines logicielles ou physiques capables de calculer des décisions, de manière individuelle, coordonnée ou non avec d’autres » ([“Ethique et agents autonomes”, p. 5](zotero://select/library/items/VQDTJPAA)) ([pdf](zotero://open-pdf/library/items/E55HNNVA?page=5&annotation=HCTCBKZM)) Définition centrale du texte
 
